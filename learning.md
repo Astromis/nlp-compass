@@ -1,6 +1,18 @@
 # Туториалы
 * [Раздел туториалов на PyTorch](https://pytorch.org/tutorials/index.html) - все материалы подаются через призму Torch: как сети составляются, как обучаются, объясняются необходимые примитивы типа Dataset и DataLoader и т.д. Есть разделы по модальностями. Правда, они завязывают работу с модальностями на их библиотеки типа torchtext и torchvision.
 * [Раздел туториалов на Transformers](https://huggingface.co/learn/nlp-course/chapter1/1) - кратко расскажут, что такое NLP и как в ней применяются трансформеры. Объясняется, как работать с библиотекой transformers: основные примитивы, как использовать модели, как их дообучать, показывают, как использовать это все для разных задач NLP.
+* [Блог Джея Аламара с визуальными туториалмами](http://jalammar.github.io) — в блоге содержится много важных концептов с богатой визуализацией, которая сильно помогает понять, что вообще происходит. Список постов, относящихся к NLP:
+  * [The Illustrated Stable Diffusion](http://jalammar.github.io/illustrated-stable-diffusion/)
+  * [The Illustrated Retrieval Transformer](http://jalammar.github.io/illustrated-retrieval-transformer/) ([rus](https://habr.com/ru/post/648705/))
+  * [How GPT3 Works - Visualizations and Animations](http://jalammar.github.io/how-gpt3-works-visualizations-animations/) ([rus](https://habr.com/ru/articles/514698/))
+  * [A Visual Guide to Using BERT for the First Time](http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/) ([rus](https://habr.com/ru/articles/498144/))
+  * [The Illustrated GPT-2 Visualizing Transformer Language Models](http://jalammar.github.io/illustrated-gpt2/) ([rus](https://habr.com/ru/articles/490842/))
+  * [The Illustrated Word2vec](http://jalammar.github.io/illustrated-word2vec/) ([rus](https://habr.com/ru/articles/446530/))
+  * [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](http://jalammar.github.io/illustrated-bert/) ([rus](https://habr.com/ru/articles/487358/))
+  * [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) ([rus](https://habr.com/ru/articles/486358/))
+  * [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](http://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/) ([rus](https://habr.com/ru/articles/486158/))
+  * [A Visual And Interactive Look at Basic Neural Network Math](http://jalammar.github.io/feedforward-neural-networks-visual-interactive/)
+  * [A Visual and Interactive Guide to the Basics of Neural Networks](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
 
 # Книги
 * [Natural Language Processing with Transformers, Revised Edition, 2022](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/) - книга про трансформеры. Разбирается устройство а также его применение на типовые задачи типа классификации, NER, генерации текста, саммаризации, QA и еще несколько прикладных глав. Подробное содержание по ссылку.
@@ -20,3 +32,6 @@
 # Текстовые курсы
 * Открытый курс машинного обучения ([рус](https://habr.com/ru/companies/ods/articles/322626/), [анг](https://mlcourse.ai/book/index.html)) - курс от OpenDataScience, в котором обозреваются общие алгоритмы машинного обучения.
 * [Курс "Машинное обучение" на ФКН ВШЭ](https://github.com/esokolov/ml-course-hse) - конспекты лекций, материалы семинаров и домашние задания (теоретические, практические, соревнования) по курсу "Машинное обучение". Тщательно разбираются классические алгоритмы машинного обучения.
+
+# Разное
+* [Детальная картинка устройства энкодера Трансформера](https://github.com/pa-shk/transformer-encoder/blob/main/transformer-encoder.png)
