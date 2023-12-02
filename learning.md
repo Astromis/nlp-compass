@@ -2,7 +2,6 @@
 * [Раздел туториалов на PyTorch](https://pytorch.org/tutorials/index.html) - все материалы подаются через призму Torch: как сети составляются, как обучаются, объясняются необходимые примитивы типа Dataset и DataLoader и т.д. Есть разделы по модальностями. Правда, они завязывают работу с модальностями на их библиотеки типа torchtext и torchvision.
 * [Раздел туториалов на Transformers](https://huggingface.co/learn/nlp-course/chapter1/1) - кратко расскажут, что такое NLP и как в ней применяются трансформеры. Объясняется, как работать с библиотекой transformers: основные примитивы, как использовать модели, как их дообучать, показывают, как использовать это все для разных задач NLP.
 * [Блог Джея Аламара с визуальными туториалмами](http://jalammar.github.io) — в блоге содержится много важных концептов с богатой визуализацией, которая сильно помогает понять, что вообще происходит. Список постов, относящихся к NLP:
-  * [The Illustrated Stable Diffusion](http://jalammar.github.io/illustrated-stable-diffusion/)
   * [The Illustrated Retrieval Transformer](http://jalammar.github.io/illustrated-retrieval-transformer/) ([rus](https://habr.com/ru/post/648705/))
   * [How GPT3 Works - Visualizations and Animations](http://jalammar.github.io/how-gpt3-works-visualizations-animations/) ([rus](https://habr.com/ru/articles/514698/))
   * [A Visual Guide to Using BERT for the First Time](http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/) ([rus](https://habr.com/ru/articles/498144/))
@@ -22,6 +21,7 @@
 * [Natural Language Processing with Python](https://www.nltk.org/book/) - книга, идущая в довесок к библиотеке NLTK, показывает основные методики обработки текстов без сложных моделей машинного обучения. Первые главы посвещаны особенностям программирования на Python, затем обсуждаются частеречная разметка, классификацию текстов, синтаксический анализ и другое.
 * [\[Хабр\] Пять книг про NLP, с которых можно начать](https://habr.com/ru/companies/ru_mts/articles/759266/) - подборка от Валентина Малых, известного NLP-специалиста, который много лет проводит курсы по NLP.
 * [\[Хабр\] Machine Learning: хорошая подборка книг для начинающего специалиста](https://habr.com/ru/companies/ru_mts/articles/759266/) - подборка книг по общему машинному обучению с использованием Python.
+* [Introduction to Transformers: an NLP Perspective](https://arxiv.org/pdf/2311.17633.pdf) — небольшая книга (я бы назвал методичка), в которой подробно описана первоначальная архитектура Трансформера, различные улучшения к ней, накопленные с годами, а также задачи, где применяется эта архитектура. 
 
 # Видеокурсы
 * [Stanford XCS224U: Natural Language Understanding](https://www.youtube.com/watch?v=K_Dh0Sxujuc&list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp) ([материалы на GitHub](https://github.com/cgpotts/cs224u/)) - покрывает все основные темы по пониманию языка (крупная подобласть NLP). В основном, видео идут до 20 минут.
