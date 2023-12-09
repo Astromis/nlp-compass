@@ -44,6 +44,7 @@
 # Разное
 * [Детальная картинка устройства энкодера Трансформера](https://github.com/pa-shk/transformer-encoder/blob/main/transformer-encoder.png)
 * [karpov.courses](https://karpov.courses) — платформа курсов. Есть [бесплатный курс](https://karpov.courses/mathsds) по математике для DS.
+* [Сообщество Open Data Science](https://ods.ai/) — соревнования, курсы, вакансии от самого крупного сообщества DS в России.
 
 # Источники
 
