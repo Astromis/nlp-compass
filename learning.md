@@ -47,6 +47,7 @@
 * [karpov.courses](https://karpov.courses) — платформа курсов. Есть [бесплатный курс](https://karpov.courses/mathsds) по математике для DS.
 * [Сообщество Open Data Science](https://ods.ai/) — соревнования, курсы, вакансии от самого крупного сообщества DS в России.
 * [Список вопрос для интервью NLP](https://dynamic-epoch-4bb.notion.site/100-questions-about-NLP-549ccde0d81a4689b5635888b9d0d7e6) — сто вопросов, собранных авторами разных телеграм-каналов, которые можно ожидать на собеседовании по NLP.
+* [Вопросы и ответы с собеседований](https://t.me/ai_machinelearning_big_data/4532) - большая, подборка вопросов и ответов с собеседований по ML, Data Science,Ai, статистике, теории вероятностей python, SQL.
 * LLM Visualization ([сайт](https://bbycroft.net/llm), [код](https://github.com/bbycroft/llm-viz)) — интерактивная визуализация работы БЯМ с пояснениями.
 
 # Источники
