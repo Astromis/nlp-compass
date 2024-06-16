@@ -27,6 +27,7 @@
 # Курсы
 * [karpov.courses](https://karpov.courses) — платформа курсов. Есть [бесплатный курс](https://karpov.courses/mathsds) по математике для DS.
 * [Лучшие бесплатные курсы и ресурсы для изучения машинного обучения](https://habr.com/ru/articles/804251/) - в этой статье автор собрал огромную коллекцию курсов, книг, и ресурсов для всех, кто любит и изучает машинное обучение.
+* [Generative AI for beginners](https://github.com/microsoft/generative-ai-for-beginners) — Learn the fundamentals of building Generative AI applications with our 18-lesson comprehensive course by Microsoft Cloud Advocates.
 
 ## Видеокурсы
 * [Stanford XCS224U: Natural Language Understanding](https://www.youtube.com/watch?v=K_Dh0Sxujuc&list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp) ([материалы на GitHub](https://github.com/cgpotts/cs224u/)) - покрывает все основные темы по пониманию языка (крупная подобласть NLP). В основном, видео идут до 20 минут.
