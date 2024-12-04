@@ -28,6 +28,7 @@
 * [karpov.courses](https://karpov.courses) — платформа курсов. Есть [бесплатный курс](https://karpov.courses/mathsds) по математике для DS.
 * [Лучшие бесплатные курсы и ресурсы для изучения машинного обучения](https://habr.com/ru/articles/804251/) - в этой статье автор собрал огромную коллекцию курсов, книг, и ресурсов для всех, кто любит и изучает машинное обучение.
 * [Generative AI for beginners](https://github.com/microsoft/generative-ai-for-beginners) — Learn the fundamentals of building Generative AI applications with our 18-lesson comprehensive course by Microsoft Cloud Advocates.
+* [smol-course](https://github.com/huggingface/smol-course) - бесплатный открытый курс от Hugging Face по файнтюнингу больших языковых моделей. В курсе рассматриваются теория и практические аспекты работы с такими методами, как LoRA, супервайзед-файнтюнинг, DPO, ORPO и другие техники для настройки моделей под конкретные задачи.
 
 ## Видеокурсы
 * [Stanford XCS224U: Natural Language Understanding](https://www.youtube.com/watch?v=K_Dh0Sxujuc&list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp) ([материалы на GitHub](https://github.com/cgpotts/cs224u/)) - покрывает все основные темы по пониманию языка (крупная подобласть NLP). В основном, видео идут до 20 минут.
@@ -60,6 +61,12 @@
 * [Вопросы и ответы с собеседований](https://t.me/ai_machinelearning_big_data/4532) - большая, подборка вопросов и ответов с собеседований по ML, Data Science,Ai, статистике, теории вероятностей python, SQL.
 * LLM Visualization ([сайт](https://bbycroft.net/llm), [код](https://github.com/bbycroft/llm-viz)) — интерактивная визуализация работы БЯМ с пояснениями.
 * Теория вероятностей в машинном обучении ([часть 1](https://habr.com/ru/companies/ods/articles/713920/), [часть 2](https://habr.com/ru/companies/ods/articles/714670/)) — в первой части подробно рассматривается вероятностная постановка задачи машинного обучения. Во второй части рассматривается метод максимизации правдоподобия в классификации.
+* [Промпт-инжиниринг: как найти общий язык с ИИ](https://habr.com/ru/companies/mts_ai/articles/844624/) — популярное введение в промт-инжиниринг.
+
+# Дородные карты
+[Вкатываемся в Machine Learning с нуля за ноль рублей: что, где, в какой последовательности изучить](https://habr.com/ru/articles/774844/) — подробный гайд на тему того, как можно изучать Machine Learning самостоятельно, не тратя деньги на платные курсы.
+[Математика для взрослых. Дорожная карта от выпускника Хармфульского клуба математики](https://habr.com/ru/companies/gaz-is/articles/779998/) — краткий обзор программы для самостоятельного изучения математики (от школьной до университета).
+
 
 # Источники
 
