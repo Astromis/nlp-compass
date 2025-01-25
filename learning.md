@@ -12,6 +12,8 @@
   * [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](http://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/) ([rus](https://habr.com/ru/articles/486158/))
   * [A Visual And Interactive Look at Basic Neural Network Math](http://jalammar.github.io/feedforward-neural-networks-visual-interactive/)
   * [A Visual and Interactive Guide to the Basics of Neural Networks](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
+* [Transformers Inference Optimization Toolset](https://astralord.github.io/posts/transformer-inference-optimization-toolset) — пост написан для того, чтобы дать основы по оптимизации инференса, чтобы быть готовым погружаться в глубины тематики.
+* [Linkage Clustering](https://github.com/mustafa-sadeghi/Linkage-Clustering) — this repository contains a comprehensive guide on Linkage Clustering, a technique used in hierarchical clustering within unsupervised machine learning. It combines theoretical insights with practical Python implementations for easy learning.
 
 # Книги
 * [Natural Language Processing with Transformers, Revised Edition, 2022](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/) - книга про трансформеры. Разбирается устройство а также его применение на типовые задачи типа классификации, NER, генерации текста, саммаризации, QA и еще несколько прикладных глав. Подробное содержание по ссылку.
@@ -23,12 +25,14 @@
 * [\[Хабр\] Machine Learning: хорошая подборка книг для начинающего специалиста](https://habr.com/ru/companies/ru_mts/articles/759266/) - подборка книг по общему машинному обучению с использованием Python.
 * [Introduction to Transformers: an NLP Perspective](https://arxiv.org/pdf/2311.17633.pdf) — небольшая книга (я бы назвал методичка), в которой подробно описана первоначальная архитектура Трансформера, различные улучшения к ней, накопленные с годами, а также задачи, где применяется эта архитектура.
 * [\[Хабр\] Прокачиваем навыки в сфере ML — что изучать в 2024-м](https://habr.com/ru/companies/cloud_mts/articles/787386/) — книжки по NLP и общей машинке.
+* [Математическая статистика](https://github.com/astralord/Statistics-lectures/blob/master/book.pdf) - перевод на русский язык [серии постов](https://astralord.github.io/posts/visual-guide-to-statistics-part-i-basics-of-point-estimation/). Оригинальная аннотация: "This series of posts is a guidance for those who already have knowledge in probability theory and would like to become familiar with mathematical statistics."
 
 # Курсы
 * [karpov.courses](https://karpov.courses) — платформа курсов. Есть [бесплатный курс](https://karpov.courses/mathsds) по математике для DS.
 * [Лучшие бесплатные курсы и ресурсы для изучения машинного обучения](https://habr.com/ru/articles/804251/) - в этой статье автор собрал огромную коллекцию курсов, книг, и ресурсов для всех, кто любит и изучает машинное обучение.
 * [Generative AI for beginners](https://github.com/microsoft/generative-ai-for-beginners) — Learn the fundamentals of building Generative AI applications with our 18-lesson comprehensive course by Microsoft Cloud Advocates.
 * [smol-course](https://github.com/huggingface/smol-course) - бесплатный открытый курс от Hugging Face по файнтюнингу больших языковых моделей. В курсе рассматриваются теория и практические аспекты работы с такими методами, как LoRA, супервайзед-файнтюнинг, DPO, ORPO и другие техники для настройки моделей под конкретные задачи.
+* [Курсы от Alexander Avdiushenko](https://avalur.github.io/teaching.html) — набор курсов по основам машинного обучения и Python.
 
 ## Видеокурсы
 * [Stanford XCS224U: Natural Language Understanding](https://www.youtube.com/watch?v=K_Dh0Sxujuc&list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp) ([материалы на GitHub](https://github.com/cgpotts/cs224u/)) - покрывает все основные темы по пониманию языка (крупная подобласть NLP). В основном, видео идут до 20 минут.
@@ -62,10 +66,12 @@
 * LLM Visualization ([сайт](https://bbycroft.net/llm), [код](https://github.com/bbycroft/llm-viz)) — интерактивная визуализация работы БЯМ с пояснениями.
 * Теория вероятностей в машинном обучении ([часть 1](https://habr.com/ru/companies/ods/articles/713920/), [часть 2](https://habr.com/ru/companies/ods/articles/714670/)) — в первой части подробно рассматривается вероятностная постановка задачи машинного обучения. Во второй части рассматривается метод максимизации правдоподобия в классификации.
 * [Промпт-инжиниринг: как найти общий язык с ИИ](https://habr.com/ru/companies/mts_ai/articles/844624/) — популярное введение в промт-инжиниринг.
+* [Перплексия в языковых моделях](https://habr.com/ru/companies/wunderfund/articles/580230/) — в этом материале я хочу сделать подробный обзор такого понятия, как «перплексия». Я расскажу о двух подходах, которые обычно используются для определения этого понятия, и о тех идеях, которые лежат в основе этих подходов.
 
-# Дородные карты
+# Дорожные карты
 [Вкатываемся в Machine Learning с нуля за ноль рублей: что, где, в какой последовательности изучить](https://habr.com/ru/articles/774844/) — подробный гайд на тему того, как можно изучать Machine Learning самостоятельно, не тратя деньги на платные курсы.
 [Математика для взрослых. Дорожная карта от выпускника Хармфульского клуба математики](https://habr.com/ru/companies/gaz-is/articles/779998/) — краткий обзор программы для самостоятельного изучения математики (от школьной до университета).
+[50 исследований на тему нейросетей, которые помогут вам стать ИИ-инженером от бога](https://habr.com/ru/companies/magnus-tech/articles/867762/) — В этом дайджесте мы собрали 50 знаковых научных работ в области ИИ за последние годы (от января 2025 года). Подборка охватывает десять ключевых направлений разработки нейросетей: от промтинга и проектирования бенчмарков до файнтюнинга и компьютерного зрения. Материал будет полезен как для опытных ИИ-инженеров, которые хотят прокачать свои навыки разработки, так и тем, кто только начинает свое знакомство с нейросетями и находится в поисках точки входа в ту или иную тему.
 
 
 # Источники
