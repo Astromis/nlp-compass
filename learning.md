@@ -33,6 +33,8 @@
 * [Generative AI for beginners](https://github.com/microsoft/generative-ai-for-beginners) — Learn the fundamentals of building Generative AI applications with our 18-lesson comprehensive course by Microsoft Cloud Advocates.
 * [smol-course](https://github.com/huggingface/smol-course) - бесплатный открытый курс от Hugging Face по файнтюнингу больших языковых моделей. В курсе рассматриваются теория и практические аспекты работы с такими методами, как LoRA, супервайзед-файнтюнинг, DPO, ORPO и другие техники для настройки моделей под конкретные задачи.
 * [Курсы от Alexander Avdiushenko](https://avalur.github.io/teaching.html) — набор курсов по основам машинного обучения и Python.
+* [Deep Learning course, University at Buffalo](https://cedar.buffalo.edu/~srihari/CSE676/) —  The course, which will be taught through lectures and projects, will cover the underlying theory, the range of applications to which it has been applied, and learning from very large data sets. The course will cover connectionist architectures commonly associated with deep learning, e.g., basic neural networks, convolutional neural networks and recurrent neural networks. Methods to train and optimize the architectures and methods to perform effective inference with them, will be the main focus.
+* [Современный NLP. Большие языковые модели](https://github.com/dmkalash/mailru_llm_course) — открытые материалы курса от Mail.ru на Github.
 
 ## Видеокурсы
 * [Stanford XCS224U: Natural Language Understanding](https://www.youtube.com/watch?v=K_Dh0Sxujuc&list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp) ([материалы на GitHub](https://github.com/cgpotts/cs224u/)) - покрывает все основные темы по пониманию языка (крупная подобласть NLP). В основном, видео идут до 20 минут.
@@ -67,12 +69,19 @@
 * Теория вероятностей в машинном обучении ([часть 1](https://habr.com/ru/companies/ods/articles/713920/), [часть 2](https://habr.com/ru/companies/ods/articles/714670/)) — в первой части подробно рассматривается вероятностная постановка задачи машинного обучения. Во второй части рассматривается метод максимизации правдоподобия в классификации.
 * [Промпт-инжиниринг: как найти общий язык с ИИ](https://habr.com/ru/companies/mts_ai/articles/844624/) — популярное введение в промт-инжиниринг.
 * [Перплексия в языковых моделях](https://habr.com/ru/companies/wunderfund/articles/580230/) — в этом материале я хочу сделать подробный обзор такого понятия, как «перплексия». Я расскажу о двух подходах, которые обычно используются для определения этого понятия, и о тех идеях, которые лежат в основе этих подходов.
+* [Как полюбить математику и подружиться с ней на всю жизнь, если ты уже не школьник](https://habr.com/ru/articles/896816/) — статья о том, как автор учил математику самостоятельно. Дано множество советов, а также материалов для изучения.
 
 # Дорожные карты
 * [Вкатываемся в Machine Learning с нуля за ноль рублей: что, где, в какой последовательности изучить](https://habr.com/ru/articles/774844/) — подробный гайд на тему того, как можно изучать Machine Learning самостоятельно, не тратя деньги на платные курсы.
 * [Математика для взрослых. Дорожная карта от выпускника Хармфульского клуба математики](https://habr.com/ru/companies/gaz-is/articles/779998/) — краткий обзор программы для самостоятельного изучения математики (от школьной до университета).
 * [50 исследований на тему нейросетей, которые помогут вам стать ИИ-инженером от бога](https://habr.com/ru/companies/magnus-tech/articles/867762/) — В этом дайджесте мы собрали 50 знаковых научных работ в области ИИ за последние годы (от января 2025 года). Подборка охватывает десять ключевых направлений разработки нейросетей: от промтинга и проектирования бенчмарков до файнтюнинга и компьютерного зрения. Материал будет полезен как для опытных ИИ-инженеров, которые хотят прокачать свои навыки разработки, так и тем, кто только начинает свое знакомство с нейросетями и находится в поисках точки входа в ту или иную тему.
 
+# Хорошее про програмиирование
+
+[Паттерны и практики написания кода](https://avito.tech/patterns) — бесплатный курс для программистов от бэкенд-инженера Авито — Юры Афанасьева. Курс посвящен практикам и паттернам написания кода. Он будет полезен как начинающим, так и middle-разработчикам.
+	* [Курс «Паттерны и практики написания кода». Сезон 1](https://www.youtube.com/playlist?list=PLknJ4Vr6efQHD8qkPPosGQjqrZpTa7KQP) — Это первый сезон курса посвященного практикам и паттернам написания кода. Он будет полезен как начинающим, так и middle-разработчикам. Эти видеоролики являются частью большого курса, созданного специально для студентов МАИ и успешно проведены в учебном заведении.
+	* [Курс «Паттерны и практики написания кода». Сезон 2](https://www.youtube.com/playlist?list=PLknJ4Vr6efQHvhvlGcBSD4KHa4ekAn0DS) — Это второй сезон курса о паттернах и практиках написания кода от бэкенд-инженера Авито — Юрия Афанасьева. Сезон состоит из 10 серий, которые будут выходить по вторникам. В каждой из них мы подробнее углубимся в принципы программирования и разберём их на примерах.
+	* [Курс «Паттерны и практики написания кода»](https://www.youtube.com/playlist?list=PLknJ4Vr6efQEru1-My3BsnYw-4UZzA_-d) — Бесплатный курс для программистов от бэкенд-инженера Авито — Юры Афанасьева. Курс посвящен практикам и паттернам написания кода. Он будет полезен как начинающим, так и middle-разработчикам.
 
 # Источники
 
