@@ -70,6 +70,7 @@
 * [Промпт-инжиниринг: как найти общий язык с ИИ](https://habr.com/ru/companies/mts_ai/articles/844624/) — популярное введение в промт-инжиниринг.
 * [Перплексия в языковых моделях](https://habr.com/ru/companies/wunderfund/articles/580230/) — в этом материале я хочу сделать подробный обзор такого понятия, как «перплексия». Я расскажу о двух подходах, которые обычно используются для определения этого понятия, и о тех идеях, которые лежат в основе этих подходов.
 * [Как полюбить математику и подружиться с ней на всю жизнь, если ты уже не школьник](https://habr.com/ru/articles/896816/) — статья о том, как автор учил математику самостоятельно. Дано множество советов, а также материалов для изучения.
+* [The probability cheatsheet](https://github.com/wzchen/probability_cheatsheet) — This cheatsheet is a 10-page reference in probability that covers a semester's worth of introductory probability. The cheatsheet is based off of Harvard's introductory probability course, Stat 110. It is co-authored by former Stat 110 Teaching Fellow William Chen and Stat 110 Professor Joe Blitzstein.
 
 # Дорожные карты
 * [Вкатываемся в Machine Learning с нуля за ноль рублей: что, где, в какой последовательности изучить](https://habr.com/ru/articles/774844/) — подробный гайд на тему того, как можно изучать Machine Learning самостоятельно, не тратя деньги на платные курсы.
