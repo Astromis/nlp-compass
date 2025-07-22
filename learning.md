@@ -14,6 +14,7 @@
   * [A Visual and Interactive Guide to the Basics of Neural Networks](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
 * [Transformers Inference Optimization Toolset](https://astralord.github.io/posts/transformer-inference-optimization-toolset) — пост написан для того, чтобы дать основы по оптимизации инференса, чтобы быть готовым погружаться в глубины тематики.
 * [Linkage Clustering](https://github.com/mustafa-sadeghi/Linkage-Clustering) — this repository contains a comprehensive guide on Linkage Clustering, a technique used in hierarchical clustering within unsupervised machine learning. It combines theoretical insights with practical Python implementations for easy learning.
+* [A Visual Guide to Mixture of Experts (MoE)](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts) — When looking at the latest releases of Large Language Models (LLMs), you will often see “MoE” in the title. What does this “MoE” represent and why are so many LLMs using it? In this visual guide, we will take our time to explore this important component, Mixture of Experts (MoE) through more than 50 visualizations!
 
 # Книги
 * [Natural Language Processing with Transformers, Revised Edition, 2022](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/) - книга про трансформеры. Разбирается устройство а также его применение на типовые задачи типа классификации, NER, генерации текста, саммаризации, QA и еще несколько прикладных глав. Подробное содержание по ссылку.
